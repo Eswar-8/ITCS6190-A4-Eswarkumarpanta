@@ -1,0 +1,11 @@
+v1
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-93cf6cc0-410b-4de6-8f5b-377675abc0ad-c000.csv","size":68,"isDir":false,"modificationTime":1793891163747,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-83c89ca0-0662-4d9f-b7fc-9f7407fee6f4-c000.csv","size":185,"isDir":false,"modificationTime":1793891166474,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-d8e7eff0-9221-4326-aec2-58ab03fe32d5-c000.csv","size":68,"isDir":false,"modificationTime":1793891167252,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-d77cf8e6-6d6c-4648-a59a-e6214285fbf2-c000.csv","size":68,"isDir":false,"modificationTime":1793891167840,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-bbc07016-132a-428a-99fa-cc6387bbcb2b-c000.csv","size":68,"isDir":false,"modificationTime":1793891168707,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-36fd50ad-86a0-4c21-96c8-54d22ce144ab-c000.csv","size":68,"isDir":false,"modificationTime":1793891169583,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-49c86ad4-f83a-4f73-a5c6-468dc493abd6-c000.csv","size":125,"isDir":false,"modificationTime":1793891170192,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-a8af2731-4e94-4bdc-a560-623ee4594d74-c000.csv","size":68,"isDir":false,"modificationTime":1793891170770,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-bd0311ec-56b5-404f-b2d6-12a4ed2dc398-c000.csv","size":127,"isDir":false,"modificationTime":1793891171413,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/spark/work-dir/shared/output/part1b/part-00000-38e518c3-d2cd-4722-81f2-135acfdfc125-c000.csv","size":68,"isDir":false,"modificationTime":1793891171967,"blockReplication":1,"blockSize":33554432,"action":"add"}

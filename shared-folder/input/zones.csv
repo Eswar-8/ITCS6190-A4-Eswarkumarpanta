@@ -1,0 +1,26 @@
+zone_id,zone_name,borough
+1,Downtown,Central
+2,Uptown,North
+3,Midtown,South
+4,Harbor,East
+5,Airport,West
+6,University,Central
+7,Old Town,North
+8,Riverside,South
+9,Tech Park,East
+10,Stadium,West
+11,Market,Central
+12,Hillside,North
+13,Lakeview,South
+14,Eastgate,East
+15,Westgate,West
+16,Northfield,Central
+17,Southport,North
+18,Greenwood,South
+19,Civic Center,East
+20,Arts District,West
+21,Ferry,Central
+22,Parkside,North
+23,Mill,South
+24,Heights,East
+25,Bayfront,West
